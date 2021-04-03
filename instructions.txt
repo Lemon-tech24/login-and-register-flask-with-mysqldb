@@ -5,5 +5,8 @@ Working backend
 The project used Mysql database
 Create in your localhost(xampp app) phpmyadmin a database. Name of database "db_flask"
 and create table named "users" with id,username,password column
+
+Index is blank for testing purpose only..
+Testing type, add /login at the end of url to login and register
 you should be good to go..
 
